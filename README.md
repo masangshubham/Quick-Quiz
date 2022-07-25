@@ -12,6 +12,7 @@
         <li>HTML</li>
         <li>CSS</li>
         <li>Javascript</li>
+        <li>Trivia API - to generate questions</li>
       </ul>
       <div class="img-container">
       <img src="images/first.png" height="250rem"/>
