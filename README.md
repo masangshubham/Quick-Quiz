@@ -15,11 +15,11 @@
         <li>Trivia API - to generate questions</li>
       </ul>
       <div class="img-container">
-      <img src="images/first.png" height="250rem"/>
-      <img src="images/highscores.png" height="250rem"/>
-      <img src="images/game1.png"  height="250rem"/>
-      <img src="images/game2.png" height="250rem"/>
-      <img src="images/end.png" height="250rem" style="align:center"/>
+      <img src="images/first.png" height="200rem"/>
+      <img src="images/highscores.png" height="200rem"/>
+      <img src="images/game1.png"  height="200rem"/>
+      <img src="images/game2.png" height="200rem"/>
+      <img src="images/end.png" height="200rem" style="align:center"/>
     </div>
   </body>
 </html>
